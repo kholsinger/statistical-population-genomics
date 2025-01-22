@@ -1,2 +1,33 @@
-# statistical-population-genomics
-Website for Statistical Population Genomics seminar at the University of Connecticut (Spring 2025)
+# Statistical Population Genomics
+
+<details>
+  <summary>Software</summary>
+    Admixture (https://dalexander.github.io/admixture/) - available for Linux and OS X
+  </summary>
+</details>
+
+This is the website for Statistical Population Genomics seminar at the University of Connecticut (Spring 2025) led by Brandon Lind and Kent Holsinger. We are focusing on chapters from the book [*Statistical Population Genomics*](https://link.springer.com/book/10.1007/978-1-0716-0199-0) (free PDF; Springer 2020). Chapter numbers in the schedule below refer to chapters in the book. We will provide links to any papers we discuss that aren't in the book. 
+
+Please put your name and email address in this [Google sheet](https://docs.google.com/spreadsheets/d/1IUaW7QrRRxHV2oVKUZkdX5fSM4Q6vL_kGrVVRLH1Clo/edit?usp=sharing) to ensure that you receive any emails we send about the seminar.
+
+**Note**: We expect students who have signed up for credit to lead the discussion one week.
+
+## Schedule
+
+|Date|Topic|Presenter|
+|----|-----|---------|
+|23 January|Introduction and organization| Brandon and Kent|
+|30 January|*Lexicon*, Barosso et al. (Chapter 1) and *Adaptation in maize*, Lorant et al. (Chapter 12)| Brandon and Kent|
+|6 February|*Population admixture including Admixture and PCA*, Liu et al. (Chapter 4)|Kent|
+|13 February|*Population admixture including $f_3$ and $f_4$ statistics*|Brandon|
+|20 February||
+|27 February||
+|6 March||
+|13 March||
+|20 March|***Spring break***|
+|27 March||
+|3 April||
+|10 April||
+|17 April||
+|24 April||
+|1 May||
