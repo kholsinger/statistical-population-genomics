@@ -13,7 +13,7 @@ Please put your name and email address in this [Google sheet](https://docs.googl
 |23 January|Introduction and organization| Brandon and Kent|
 |30 January|*Lexicon*, Barosso et al. (Chapter 1) and *Adaptation in maize*, Lorant et al. (Chapter 12)| Brandon and Kent|
 |6 February|*Population admixture including Admixture and PCA*, Liu et al. (Chapter 4)|Kent|
-|13 February|*Population admixture including $f_3$ and $f_4$ statistics*|Brandon|
+|13 February|*Population admixture including $`f_3`$ and $`f_4`$ statistics*|Brandon|
 |20 February||
 |27 February||
 |6 March||
