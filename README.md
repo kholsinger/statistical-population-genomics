@@ -6,6 +6,8 @@ Please put your name and email address in this [Google sheet](https://docs.googl
 
 **Note**: We expect students who have signed up for credit to lead the discussion one week.
 
+## [Resources](resources.html)
+
 ## Schedule
 
 |Date|Topic|Presenter|
@@ -25,6 +27,3 @@ Please put your name and email address in this [Google sheet](https://docs.googl
 |17 April||
 |24 April||
 |1 May||
-
-## Resources
-* [Admixture](https://dalexander.github.io/admixture/) - available for Linux and OS X
