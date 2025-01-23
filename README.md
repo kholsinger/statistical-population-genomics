@@ -16,14 +16,14 @@ Please put your name and email address in this [Google sheet](https://docs.googl
 |30 January|Lexicon (Barosso et al., Chapter 1) and Adaptation in maize (Lorant et al., Chapter 12)| Brandon and Kent|
 |6 February|Population admixture including Admixture and PCA (Liu et al., Chapter 4)|Kent|
 |13 February|Population admixture including $`f_3`$ and $`f_4`$ statistics|Brandon|
-|20 February||
+|20 February|Detecting selection (Chapter 5)|(tentative)|
 |27 February||
 |6 March||
 |13 March||
 |20 March|***Spring break***|
-|27 March||
-|3 April||
-|10 April||
-|17 April||
-|24 April||
-|1 May||
+|27 March|Coalescent simulation (Chapter 9)| (tentative)|
+|3 April|Multiple sequentially Markovian coalescent (Chapter 7)| (tentative)|
+|10 April|Coalescent hidden Markov models (Chapter 8)| (tentative)|
+|17 April|Tree sequences [(Kelleher et al.)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006581)| (tentative)|
+|24 April|Ancestral recombination graphs (Chapter 10)| (tentative)|
+|1 May|Time-stratified ancestry analysis [(Speidel et al. 2025)](https://doi.org/10.1038/s41586-024-08275-2)|(tentative)
