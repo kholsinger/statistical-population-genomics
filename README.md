@@ -1,6 +1,6 @@
 # Statistical Population Genomics
 
-This is the website for Statistical Population Genomics seminar at the University of Connecticut (Spring 2025) led by Brandon Lind and Kent Holsinger. We are focusing on chapters from the book [*Statistical Population Genomics*](https://link.springer.com/book/10.1007/978-1-0716-0199-0) (free PDF; Springer 2020). Chapter numbers in the schedule below refer to chapters in the book. We will provide links to any papers we discuss that aren't in the book. 
+This is the website for Statistical Population Genomics seminar at the University of Connecticut (Spring 2025) led by Brandon Lind and Kent Holsinger. We are focusing on chapters from the book [*Statistical Population Genomics*](https://link.springer.com/book/10.1007/978-1-0716-0199-0) (free PDF; Springer 2020). Chapter numbers in the schedule below refer to chapters in the book. We will provide links to any papers we discuss that aren't in the book, and you'll find supplementary readings on the [Resources](Resources) page. 
 
 Please put your name and email address in this [Google sheet](https://docs.google.com/spreadsheets/d/1IUaW7QrRRxHV2oVKUZkdX5fSM4Q6vL_kGrVVRLH1Clo/edit?usp=sharing) to ensure that you receive any emails we send about the seminar.
 
