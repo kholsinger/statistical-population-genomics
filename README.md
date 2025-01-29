@@ -14,7 +14,7 @@ Please put your name and email address in this [Google sheet](https://docs.googl
 |----|-----|---------|
 |23 January|Introduction and organization| Brandon and Kent|
 |30 January|Lexicon (Barosso et al., Chapter 1) and Adaptation in maize (Lorant et al., Chapter 12)| Brandon and Kent|
-|6 February|Population admixture including Admixture and PCA (Liu et al., Chapter 4)|Kent|
+|6 February|Population admixture including Admixture and PCA (Liu et al., Chapter 4)<br />[Rosenberg et al. (2002)](https://dx.doi.org/10.1126/science.1078311)<br />[Novembre et al. (2008)](https://doi.org/10.1038/nature07331) |Kent|
 |13 February|Population admixture including $`f_3`$ and $`f_4`$ statistics|Brandon|
 |20 February|Detecting selection (Chapter 5)|(tentative)|
 |27 February||
