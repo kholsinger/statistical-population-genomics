@@ -4,7 +4,7 @@
 
 |Date|
 |----|
-|[30 January](lecture-slides/2025-01-30_chapter-12.pdf)
+|[30 January](lecture_slides/2025-01-30_chapter-12.pdf)
 
 ## Software
 * [Admixture](https://dalexander.github.io/admixture/) - available for Linux and OS X
