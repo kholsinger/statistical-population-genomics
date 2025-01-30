@@ -17,3 +17,9 @@
 | |Lawson, D. J., L. van Dorp and D. Falush. 2018. A tutorial on how not to over-interpret STRUCTURE and ADMIXTURE bar plots. Nature Communications 9:3258. [https://doi.org/10.1038/s41467-018-05257-7](https://doi.org/10.1038/s41467-018-05257-7)|
 | |Novembre, J., T. Johnson, K. Bryc, Z. Kutalik, A. R. Boyko, A. Auton, A. Indap, K. S. King, S. Bergmann, M. R. Nelson, M. Stephens and C. D. Bustamante. 2008. Genes mirror geography within Europe. Nature 456:98-101. [https://doi.org/10.1038/nature07331](https://doi.org/10.1038/nature07331)|
 | |Rosenberg, N. A., J. K. Pritchard, J. L. Weber, H. M. Cann, K. K. Kidd, L. A. Zhivotovsky and M. W. Feldman. 2002. Genetic structure of human populations. Science 298:2381-2385. [https://dx.doi.org/10.1126/science.1078311](https://dx.doi.org/10.1126/science.1078311)|
+| | |
+|13 February||
+| | |
+|20 February||
+| | |
+|27 February|Nuismer, S. L., C. E. Jenkins, and M. F. Dybdahl.  2017.  Identifying coevolving loci using interspecific genetic correlations. Ecology and Evolution.  7:6894-6903. [https://dx.doi.org/10.1002/ece3.3107](https://dx.doi.org/10.1002/ece3.3107)
