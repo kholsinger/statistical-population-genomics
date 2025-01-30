@@ -1,5 +1,11 @@
 # Resources
 
+## Slides
+
+|Date|
+|----|
+|[30 January](lecture-slides/2025-01-30_chapter-12.pdf)
+
 ## Software
 * [Admixture](https://dalexander.github.io/admixture/) - available for Linux and OS X
 * [Structure](https://web.stanford.edu/group/pritchardlab/structure.html) - available for Linux, OS X, and Windoze
