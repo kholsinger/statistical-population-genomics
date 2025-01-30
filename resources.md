@@ -9,6 +9,7 @@
 * [tskit](https://tskit.dev/) - software for tree sequences
 
 ## Supplementary reading
+
 |Date|Article|
 |----|-------|
 |6 February|Bick, A. G. et al. 2024. Genomic data in the All of Us Research Program. Nature 627:340-346. [https://doi.org/10.1038/s41586-023-06957-x](https://doi.org/10.1038/s41586-023-06957-x)|
