@@ -1,0 +1,15 @@
+## LaTeX files
+##
+*.synctex.gz
+*converted-to.pdf
+*.aux
+*.log
+*.out
+
+## Emacs backup files
+##
+*~
+
+## Macintosh files
+##
+.DS_Store
