@@ -19,7 +19,7 @@ Please put your name and email address in this [Google sheet](https://docs.googl
 |20 February||
 |27 February|Detecting selection (Chapter 5)<br />[Nuismer et al. (2017)](https://dx.doi.org/10.1002/ece3.3107)|Emma Choi|
 |6 March|(tbd)|Fahad Gilani|
-|13 March||
+|13 March|(tbd)|Amee|
 |20 March|***Spring break***|
 |27 March|Coalescent simulation (Chapter 9)|(tentative)|
 |3 April|Multiple sequentially Markovian coalescent (Chapter 7) and SMC++ [(Terhorst et al. 2017)](https://doi.org/10.1038/ng.3748)|Analisa Milkey|
