@@ -18,10 +18,10 @@ Please put your name and email address in this [Google sheet](https://docs.googl
 |13 February|Population admixture including $`f_3`$ and $`f_4`$ statistics <br >[Raghavan et al. (2014) Upper Palaeolithic Siberian genome reveals dual ancestry of Native Americans](https://www.nature.com/articles/nature12736)|Brandon|
 |20 February||
 |27 February|Detecting selection (Chapter 5)<br />[Nuismer et al. (2017)](https://dx.doi.org/10.1002/ece3.3107)|Emma Choi|
-|6 March||
+|6 March|(tbd)|Fahad Gilani|
 |13 March||
 |20 March|***Spring break***|
-|27 March|Coalescent simulation (Chapter 9)| (tentative)|
+|27 March|Coalescent simulation (Chapter 9)|Analisa Milkey|
 |3 April|Multiple sequentially Markovian coalescent (Chapter 7) and SMC++ [(Terhorst et al. 2017)](https://doi.org/10.1038/ng.3748)| (tentative)|
 |10 April|Coalescent hidden Markov models (Chapter 8)| (tentative)|
 |17 April|Tree sequences [(Kelleher et al.)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006581)| (tentative)|
