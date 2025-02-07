@@ -30,3 +30,14 @@
 |20 February||
 | | |
 |27 February|Nuismer, S. L., C. E. Jenkins, and M. F. Dybdahl.  2017.  Identifying coevolving loci using interspecific genetic correlations. Ecology and Evolution.  7:6894-6903. [https://dx.doi.org/10.1002/ece3.3107](https://dx.doi.org/10.1002/ece3.3107)
+|6 March| |
+|13 March| |
+|20 March|***Spring break***|
+|27 March| |
+|3 April|Terhorst, J., J. A. Kamm and Y. S. Song. 2017. Robust and scalable inference of population history from hundreds of unphased whole genomes. Nature Genetics 49:303-309. [https://doi.org/10.1038/ng.3748](https://doi.org/10.1038/ng.3748) |
+|10 April| |
+|17 April| |
+|24 April| |
+|1 May|Speidel, L., M. Silva, T. Booth, B. Raffield, K. Anastasiadou, C. Barrington, A. Götherström, P. Heather and P. Skoglund. 2025. High-resolution genomic history of early medieval Europe. Nature 637:118-126. [https://doi.org/10.1038/s41586-024-08275-2](https://doi.org/10.1038/s41586-024-08275-2)
+
+

@@ -26,4 +26,5 @@ Please put your name and email address in this [Google sheet](https://docs.googl
 |10 April|Coalescent hidden Markov models (Chapter 8)| (tentative)|
 |17 April|Tree sequences [(Kelleher et al.)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006581)| (tentative)|
 |24 April|Ancestral recombination graphs (Chapter 10)| (tentative)|
-|1 May|Time-stratified ancestry analysis [(Speidel et al. 2025)](https://doi.org/10.1038/s41586-024-08275-2)|(tentative)
+|1 May|Time-stratified ancestry analysis [(Speidel et al. 2025)](https://doi.org/10.1038/s41586-024-08275-2)|Kent|
+
