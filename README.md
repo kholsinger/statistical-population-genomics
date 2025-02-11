@@ -22,8 +22,8 @@ Please put your name and email address in this [Google sheet](https://docs.googl
 |13 March|(tbd)|Amee|
 |20 March|***Spring break***|
 |27 March|Coalescent simulation (Chapter 9)|(tentative)|
-|3 April|Multiple sequentially Markovian coalescent (Chapter 7) and SMC++ [(Terhorst et al. 2017)](https://doi.org/10.1038/ng.3748)|Analisa Milkey|
-|10 April|Coalescent hidden Markov models (Chapter 8)| (tentative)|
+|3 April|Coalescent hidden Markov models (Chapter 8)<br />[Li and Durbin (2011)](https://dx.doi.org/10.1038/nature10231)<br />[Smith et al. (2018)](https://dx.doi.org/10.1111/mec.14854)| Cindy Barreto |
+|10 April|Multiple sequentially Markovian coalescent (Chapter 7) and SMC++ [(Terhorst et al. 2017)](https://doi.org/10.1038/ng.3748)|Analisa Milkey|
 |17 April|Tree sequences [(Kelleher et al.)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006581)| (tentative)|
 |24 April|Ancestral recombination graphs (Chapter 10)| (tentative)|
 |1 May|Time-stratified ancestry analysis [(Speidel et al. 2025)](https://doi.org/10.1038/s41586-024-08275-2)|Kent|

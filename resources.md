@@ -34,8 +34,9 @@
 |13 March| |
 |20 March|***Spring break***|
 |27 March| |
-|3 April|Terhorst, J., J. A. Kamm and Y. S. Song. 2017. Robust and scalable inference of population history from hundreds of unphased whole genomes. Nature Genetics 49:303-309. [https://doi.org/10.1038/ng.3748](https://doi.org/10.1038/ng.3748) |
-|10 April| |
+|3 April|Li, H., and R. Durbin. 2011. Inference of human population history from individual whole-genome sequences.Nature 475:493-496. [https://dx.doi.org/10.1038/nature10231](https://dx.doi.org/10.1038/nature10231) |
+| |Smith, C. C. R., S. M. Flaxman, E. S. C. Scordato, N. C. Kane, A. K. Hund, B. M. Sheta and R. J. Safran. 2018. Demographic inference in barn swallows using whole‐genome data shows signal for bottleneck and subspecies differentiation during the Holocene. Molecular Ecology 27:4200-4212. [https://dx.doi.org/10.1111/mec.14854](https://dx.doi.org/10.1111/mec.14854)|
+|10 April|Terhorst, J., J. A. Kamm and Y. S. Song. 2017. Robust and scalable inference of population history from hundreds of unphased whole genomes. Nature Genetics 49:303-309. [https://doi.org/10.1038/ng.3748](https://doi.org/10.1038/ng.3748) |
 |17 April| |
 |24 April| |
 |1 May|Speidel, L., M. Silva, T. Booth, B. Raffield, K. Anastasiadou, C. Barrington, A. Götherström, P. Heather and P. Skoglund. 2025. High-resolution genomic history of early medieval Europe. Nature 637:118-126. [https://doi.org/10.1038/s41586-024-08275-2](https://doi.org/10.1038/s41586-024-08275-2)
