@@ -27,7 +27,9 @@
 | |Bradburd, G. S., G. M. Coop, and P. L. Ralph. 2018. Inferring Continuous and Discrete Population Genetic Structure Across Space. Genetics 210:genetics.301333.2018. [https://doi.org/10.1534/genetics.118.301333](https://doi.org/10.1534/genetics.118.301333)|
 | | |
 |13 February| Patterson, N., P. Moorjani, Y. Luo, S. Mallick, N. Rohland, Y. Zhan, T. Genschoreck, T. Webster and D. Reich. 2012. Ancient Admixture in Human History. Genetics 192:1065-1093. [https://dx.doi.org/10.1534/genetics.112.145037](https://dx.doi.org/10.1534/genetics.112.145037)|
-| | Raghavan, M., P. Skoglund, K. E. Graf, M. Metspalu, A. Albrechtsen, I. Moltke, S. Rasmussen, T. W. Stafford Jr, L. Orlando, E. Metspalu, M. Karmin, K. Tambets, S. Rootsi, R. Mägi, P. F. Campos, E. Balanovska, O. Balanovsky, E. Khusnutdinova, S. Litvinov, L. P. Osipova, S. A. Fedorova, M. I. Voevoda, M. DeGiorgio, T. Sicheritz-Ponten, S. Brunak, S. Demeshchenko, T. Kivisild, R. Villems, R. Nielsen, M. Jakobsson and E. Willerslev. 2014. Upper Palaeolithic Siberian genome reveals dual ancestry of Native Americans. Nature 505(7481): 87-91. [https://dx.doi.org/10.1038/nature12736](https://dx.doi.org/10.1038/nature12736)|
+| | Raghavan, M. et al. 2014. Upper Palaeolithic Siberian genome reveals dual ancestry of Native Americans. Nature 505(7481): 87-91. [https://dx.doi.org/10.1038/nature12736](https://dx.doi.org/10.1038/nature12736)|
+| | Moreno-Mayar, et al. 2018. Terminal Pleistocene Alaskan genome reveals first founding population of Native Americans. Nature 553:203–207 https://doi.org/10.1038/nature25173|
+| | Peter, B. M. 2016. Admixture, Population Structure, and F-Statistics. Genetics 202:1485–1501. https://doi.org/10.1534/genetics.115.183913|
 | | |
 |20 February||
 | | |
