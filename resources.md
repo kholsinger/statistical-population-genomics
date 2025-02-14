@@ -30,6 +30,7 @@
 | | Raghavan, M. et al. 2014. Upper Palaeolithic Siberian genome reveals dual ancestry of Native Americans. Nature 505(7481): 87-91. [https://dx.doi.org/10.1038/nature12736](https://dx.doi.org/10.1038/nature12736)|
 | | Moreno-Mayar, et al. 2018. Terminal Pleistocene Alaskan genome reveals first founding population of Native Americans. Nature 553:203–207 https://doi.org/10.1038/nature25173|
 | | Peter, B. M. 2016. Admixture, Population Structure, and F-Statistics. Genetics 202:1485–1501. https://doi.org/10.1534/genetics.115.183913|
+| | Lipson M. 2020. Interpreting f-statistics and admixture graphs: theory and examples. https://www.preprints.org/manuscript/202003.0237/v1|
 | | |
 |20 February||
 | | |
