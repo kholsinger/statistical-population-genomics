@@ -9,10 +9,12 @@
 
 ## Software
 * [Admixture](https://dalexander.github.io/admixture/) - available for Linux and OS X
-* [Structure](https://web.stanford.edu/group/pritchardlab/structure.html) - available for Linux, OS X, and Windoze
-* [smartsnp](https://christianhuber.github.io/smartsnp/index.html) - PCA analysis of genomic data in R
+* [angsd](https://www.popgen.dk/angsd/index.php/ANGSD) - analysis of sequence data taking genotype uncertainty into account
+* [EEMS](https://github.com/dipetkov/eems) - ***E***stimated ***E***ffective ***M***igration ***S***urfaces
 * [EIGENSOFT](https://github.com/DReichLab/EIG) - EIGENSOFT package for genomic data (including smartpca, Linux only)
 * [PCAviz](https://github.com/NovembreLab/PCAviz) - Visualization tools for the results of a PCA on genomic data
+* [smartsnp](https://christianhuber.github.io/smartsnp/index.html) - PCA analysis of genomic data in R
+* [Structure](https://web.stanford.edu/group/pritchardlab/structure.html) - available for Linux, OS X, and Windoze
 * [tskit](https://tskit.dev/) - software for tree sequences
 
 ## Reading
