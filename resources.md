@@ -35,6 +35,7 @@
 | | Lipson M. 2020. Interpreting f-statistics and admixture graphs: theory and examples. [https://www.preprints.org/manuscript/202003.0237/v1](https://www.preprints.org/manuscript/202003.0237/v1)|
 | | |
 |20 February|Petsikova, D., J. Novembre, and M. Stephens.  2015.  Visualizing spatial population structure with estimated effective migration surfaces.  Nature Genetics. 48:94-100 [https://doi.org/10.1038/ng.3464](https://doi.org/10.1038/ng.3464)|
+| |Shastry, V., M. Musiani, and J. Novembre. 2025. Jointly representing long-range genetic similarity and spatially heterogeneous isolation-by-distance. bioRxiv [https://doi.org/10.1101/2025.02.10.637386](https://doi.org/10.1101/2025.02.10.637386)
 | | |
 |27 February|Nuismer, S. L., C. E. Jenkins, and M. F. Dybdahl.  2017.  Identifying coevolving loci using interspecific genetic correlations. Ecology and Evolution.  7:6894-6903. [https://dx.doi.org/10.1002/ece3.3107](https://dx.doi.org/10.1002/ece3.3107)
 |6 March| |
