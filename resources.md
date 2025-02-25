@@ -37,7 +37,8 @@
 |20 February|Petsikova, D., J. Novembre, and M. Stephens.  2015.  Visualizing spatial population structure with estimated effective migration surfaces.  Nature Genetics. 48:94-100 [https://doi.org/10.1038/ng.3464](https://doi.org/10.1038/ng.3464)|
 | |Shastry, V., M. Musiani, and J. Novembre. 2025. Jointly representing long-range genetic similarity and spatially heterogeneous isolation-by-distance. bioRxiv [https://doi.org/10.1101/2025.02.10.637386](https://doi.org/10.1101/2025.02.10.637386)
 | | |
-|27 February|Nuismer, S. L., C. E. Jenkins, and M. F. Dybdahl.  2017.  Identifying coevolving loci using interspecific genetic correlations. Ecology and Evolution.  7:6894-6903. [https://dx.doi.org/10.1002/ece3.3107](https://dx.doi.org/10.1002/ece3.3107)
+|27 February|Nuismer, S. L., C. E. Jenkins, and M. F. Dybdahl.  2017.  Identifying coevolving loci using interspecific genetic correlations. Ecology and Evolution.  7:6894-6903. [https://dx.doi.org/10.1002/ece3.3107](https://dx.doi.org/10.1002/ece3.3107)|
+| | |
 |6 March|Huber, C. D., B. Y. Kim, C. D. Marsden and K. E. Lohmueller. 2017. Determining the factors driving selective effects of new nonsynonymous mutations. Proceedings of the National Academy of Sciences 114:4465-4470. [https://dx.doi.org/10.1073/pnas.1619508114](https://dx.doi.org/10.1073/pnas.1619508114)|
 | |Tataru, P., M. Mollion, S. Glémin and T. Bataillon. 2017. Inference of Distribution of Fitness Effects and Proportion of Adaptive Substitutions from Polymorphism Data. Genetics 207:1103-1119.  [https://dx.doi.org/10.1534/genetics.117.300323](https://dx.doi.org/10.1534/genetics.117.300323)
 | | |
@@ -50,7 +51,9 @@
 |3 April|Li, H., and R. Durbin. 2011. Inference of human population history from individual whole-genome sequences.Nature 475:493-496. [https://dx.doi.org/10.1038/nature10231](https://dx.doi.org/10.1038/nature10231) |
 | |Smith, C. C. R., S. M. Flaxman, E. S. C. Scordato, N. C. Kane, A. K. Hund, B. M. Sheta and R. J. Safran. 2018. Demographic inference in barn swallows using whole‐genome data shows signal for bottleneck and subspecies differentiation during the Holocene. Molecular Ecology 27:4200-4212. [https://dx.doi.org/10.1111/mec.14854](https://dx.doi.org/10.1111/mec.14854)|
 | | |
-|10 April|Terhorst, J., J. A. Kamm and Y. S. Song. 2017. Robust and scalable inference of population history from hundreds of unphased whole genomes. Nature Genetics 49:303-309. [https://doi.org/10.1038/ng.3748](https://doi.org/10.1038/ng.3748) |
+|10 April|Mather, N., S. M. Traves and S. Y. W. Ho. 2020. A practical introduction to sequentially Markovian coalescent methods for estimating demographic history from genomic data. Ecology and Evolution 10:579-589. [https://doi.org/10.1002/ece3.5888](https://doi.org/10.1002/ece3.5888)|
+| | |
+|17 April|Terhorst, J., J. A. Kamm and Y. S. Song. 2017. Robust and scalable inference of population history from hundreds of unphased whole genomes. Nature Genetics 49:303-309. [https://doi.org/10.1038/ng.3748](https://doi.org/10.1038/ng.3748) |
 |17 April| |
 | | |
 |24 April| |
