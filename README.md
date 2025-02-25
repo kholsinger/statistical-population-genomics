@@ -22,9 +22,9 @@ Please put your name and email address in this [Google sheet](https://docs.googl
 |13 March|[Takahagi et al. (2016) Analysis of single nucleotide polymorphisms based on RNA sequencing data of diverse bio-geographical accessions in barley](https://www.nature.com/articles/srep33199)|Amee|
 |20 March|***Spring break***|
 |27 March|Coalescent simulation (Chapter 9)|(tentative)|
-|3 April|Coalescent hidden Markov models (Chapter 8)<br />[Li and Durbin (2011) Inference of human population history from individual whole-genome sequences](https://dx.doi.org/10.1038/nature10231)<br />•[Smith et al. (2018) Demographic inference in barn swallows using whole-genome data shows signal for bottleneck and subspecies differentiation during the Holocene](https://dx.doi.org/10.1111/mec.14854)|Cindy|
-|10 April|Multiple sequentially Markovian coalescent (Chapter 7)|Analisa|
+|3 April|Coalescent hidden Markov models (Chapter 8)<br />[Li and Durbin (2011) Inference of human population history from individual whole-genome sequences](https://dx.doi.org/10.1038/nature10231)<br />[Smith et al. (2018) Demographic inference in barn swallows using whole-genome data shows signal for bottleneck and subspecies differentiation during the Holocene](https://dx.doi.org/10.1111/mec.14854)|Cindy|
+|10 April|Multiple sequentially Markovian coalescent (Chapter 7)<br />[Mather et al. (2020)](https://doi.org/10.1002/ece3.5888)|Analisa|
 |17 April|SMC++ [(Terhorst et al. 2017) Robust and scalable inference of population history from hundreds of unphased whole genomes](https://doi.org/10.1038/ng.3748)|Cynthia|
-|24 April|•Tree sequences - [Kelleher et al. (2018) Efficient pedigree recording for fast population genetics simulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006581) <br />•Ancestral recombination graphs (Chapter 10)|Brandon|
+|24 April|Tree sequences - [Kelleher et al. (2018) Efficient pedigree recording for fast population genetics simulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006581) <br />•Ancestral recombination graphs (Chapter 10)|Brandon|
 |1 May|Time-stratified ancestry analysis [Speidel et al. (2025) High-resolution genomic history of early medieval Europe](https://doi.org/10.1038/s41586-024-08275-2)|Kent|
 
