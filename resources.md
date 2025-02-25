@@ -39,8 +39,8 @@
 | | |
 |27 February|Nuismer, S. L., C. E. Jenkins, and M. F. Dybdahl.  2017.  Identifying coevolving loci using interspecific genetic correlations. Ecology and Evolution.  7:6894-6903. [https://dx.doi.org/10.1002/ece3.3107](https://dx.doi.org/10.1002/ece3.3107)|
 | | |
-|6 March|Huber, C. D., B. Y. Kim, C. D. Marsden and K. E. Lohmueller. 2017. Determining the factors driving selective effects of new nonsynonymous mutations. Proceedings of the National Academy of Sciences 114:4465-4470. [https://dx.doi.org/10.1073/pnas.1619508114](https://dx.doi.org/10.1073/pnas.1619508114)|
-| |Tataru, P., M. Mollion, S. Glémin and T. Bataillon. 2017. Inference of Distribution of Fitness Effects and Proportion of Adaptive Substitutions from Polymorphism Data. Genetics 207:1103-1119.  [https://dx.doi.org/10.1534/genetics.117.300323](https://dx.doi.org/10.1534/genetics.117.300323)
+|6 March|Huber, C. D., B. Y. Kim, C. D. Marsden and K. E. Lohmueller. 2017. Determining the factors driving selective effects of new nonsynonymous mutations. Proceedings of the National Academy of Sciences 114:4465-4470. [https://doi.org/10.1073/pnas.1619508114](https://doi.org/10.1073/pnas.1619508114)|
+| |Tataru, P., M. Mollion, S. Glémin and T. Bataillon. 2017. Inference of Distribution of Fitness Effects and Proportion of Adaptive Substitutions from Polymorphism Data. Genetics 207:1103-1119.  [https://doi.org/10.1534/genetics.117.300323](https://doi.org/10.1534/genetics.117.300323)
 | | |
 |13 March| |
 | | |
