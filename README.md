@@ -18,7 +18,7 @@ Please put your name and email address in this [Google sheet](https://docs.googl
 |13 February|Population admixture including $`f_3`$ and $`f_4`$ statistics <br >[Raghavan et al. (2014) Upper Palaeolithic Siberian genome reveals dual ancestry of Native Americans](https://www.nature.com/articles/nature12736)|Brandon|
 |20 February|[Melton et al. (2025) Genomics-Driven Monitoring of Fraxinus latifolia (Oregon Ash) to Inform Conservation and EAB-Resistance Breeding](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17640)|Vidya|
 |27 February|Detecting selection (Chapter 5)<br />[Nuismer et al. (2017) Identifying coevolving loci using interspecific genetic correlations](https://dx.doi.org/10.1002/ece3.3107)|Emma|
-|6 March|Inferring the distribution of fitness effects (polyDFE; Chapter 6, sections 1 & 2.1)<br />[Huber et al. (2017)](https://10.1073/pnas.1619508114)|Fahad|
+|6 March|Inferring the distribution of fitness effects (polyDFE; Chapter 6, sections 1 & 2.1)<br />[Huber et al. (2017)](https://www.pnas.org/doi/pdf/10.1073/pnas.1619508114)|Fahad|
 |13 March|[Takahagi et al. (2016) Analysis of single nucleotide polymorphisms based on RNA sequencing data of diverse bio-geographical accessions in barley](https://www.nature.com/articles/srep33199)|Amee|
 |20 March|***Spring break***|
 |27 March|Coalescent simulation (Chapter 9)|(tentative)|
