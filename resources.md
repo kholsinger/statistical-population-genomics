@@ -10,6 +10,7 @@
 ## Software
 * [Admixture](https://dalexander.github.io/admixture/) - available for Linux and OS X
 * [angsd](https://www.popgen.dk/angsd/index.php/ANGSD) - analysis of sequence data taking genotype uncertainty into account
+* [dadi](https://dadi.readthedocs.io/en/latest/) - simulating the joint allele frequency spectrum and using it for inference
 * [EEMS](https://github.com/dipetkov/eems) - ***E***stimated ***E***ffective ***M***igration ***S***urfaces
 * [FEEMS](https://github.com/VivaswatS/feems) - ***F***ast ***EEMS***
 * [EIGENSOFT](https://github.com/DReichLab/EIG) - EIGENSOFT package for genomic data (including smartpca, Linux only)
