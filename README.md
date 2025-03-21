@@ -6,6 +6,9 @@ Please put your name and email address in this [Google sheet](https://docs.googl
 
 **Note**: We expect students who have signed up for credit to lead the discussion one week.
 
+## Overview readings
+[Witt, K.E., and F.A. Villanea.  2025.  Computational Genomics and Its Applications to Anthropological Questions.  American Journal of Biological Anthropology  186:e70010](https://doi.org/10.1002/ajpa.70010)
+
 ## [Resources](resources.html)
 
 ## Schedule
