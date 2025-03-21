@@ -24,7 +24,7 @@ Witt, K.E., and F.A. Villanea.  2025.  Computational Genomics and Its Applicatio
 |6 March|Inferring the distribution of fitness effects (polyDFE; Chapter 6, sections 1 & 2.1)<br />[Huber et al. (2017)](https://www.pnas.org/doi/pdf/10.1073/pnas.1619508114)|Fahad|
 |13 March|[Takahagi et al. (2016) Analysis of single nucleotide polymorphisms based on RNA sequencing data of diverse bio-geographical accessions in barley](https://www.nature.com/articles/srep33199)|Amee|
 |20 March|***Spring break***|
-|27 March|Coalescent simulation (Chapter 9)|(tentative)|
+|27 March|[Intro to the coalescent pp. 1-7](https://darwin.eeb.uconn.edu/eeb348-notes/coalescent.pdf)<br >[Genomics of post-bottleneck recovery in the northern elephant seal](https://www.nature.com/articles/s41559-024-02337-4)|Brandon|
 |3 April|Coalescent hidden Markov models (Chapter 8)<br />[Li and Durbin (2011) Inference of human population history from individual whole-genome sequences](https://dx.doi.org/10.1038/nature10231)<br />[Smith et al. (2018) Demographic inference in barn swallows using whole-genome data shows signal for bottleneck and subspecies differentiation during the Holocene](https://dx.doi.org/10.1111/mec.14854)|Cindy|
 |10 April|Multiple sequentially Markovian coalescent (Chapter 7)<br />[Mather et al. (2020)](https://doi.org/10.1002/ece3.5888)|Analisa|
 |17 April|SMC++ [(Terhorst et al. 2017) Robust and scalable inference of population history from hundreds of unphased whole genomes](https://doi.org/10.1038/ng.3748)|Cynthia|
