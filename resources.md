@@ -15,6 +15,7 @@
 * [FEEMS](https://github.com/VivaswatS/feems) - ***F***ast ***EEMS***
 * [EIGENSOFT](https://github.com/DReichLab/EIG) - EIGENSOFT package for genomic data (including smartpca, Linux only)
 * [PCAviz](https://github.com/NovembreLab/PCAviz) - Visualization tools for the results of a PCA on genomic data
+* [PopCluster](https://www.zsl.org/about-zsl/resources/software/popcluster) - available for Windows, Linux, and OS X (an alternative to Admixture and Structure)
 * [smartsnp](https://christianhuber.github.io/smartsnp/index.html) - PCA analysis of genomic data in R
 * [Structure](https://web.stanford.edu/group/pritchardlab/structure.html) - available for Linux, OS X, and Windoze
 * [tskit](https://tskit.dev/) - software for tree sequences
