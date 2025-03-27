@@ -4,8 +4,9 @@
 
 |Date|
 |----|
-|[30 January](lecture_slides/2025-01-30_chapter-12.pdf)|
-|[6 February](lecture_slides/2025-02-06.pdf)|
+|[30 January (chapter 12)](lecture_slides/2025-01-30_chapter-12.pdf)|
+|[6 February (structure)](lecture_slides/2025-02-06.pdf)|
+|[27 March (coalescent)](lecture_slides/2025-03-27_coalescent.pptx)|
 
 ## Software
 * [Admixture](https://dalexander.github.io/admixture/) - available for Linux and OS X
