@@ -56,10 +56,10 @@
 | |Li, H., and R. Durbin. 2011. Inference of human population history from individual whole-genome sequences.Nature 475:493-496. [https://dx.doi.org/10.1038/nature10231](https://dx.doi.org/10.1038/nature10231) |
 | |Smith, C. C. R., S. M. Flaxman, E. S. C. Scordato, N. C. Kane, A. K. Hund, B. M. Sheta and R. J. Safran. 2018. Demographic inference in barn swallows using whole‐genome data shows signal for bottleneck and subspecies differentiation during the Holocene. Molecular Ecology 27:4200-4212. [https://dx.doi.org/10.1111/mec.14854](https://dx.doi.org/10.1111/mec.14854)|
 | | |
-|10 April|Mather, N., S. M. Traves and S. Y. W. Ho. 2020. A practical introduction to sequentially Markovian coalescent methods for estimating demographic history from genomic data. Ecology and Evolution 10:579-589. [https://doi.org/10.1002/ece3.5888](https://doi.org/10.1002/ece3.5888)|
+|10 April|Hilgers, L., S. Liu, A. Jensen, T. Brown, T. Cousins, R. Schweiger, K. Guschanski and M. Hiller. 2025. Avoidable false PSMC population size peaks occur across numerous studies. Current Biology 35(4): 927-930.e923. [https://doi.org/10.1016/j.cub.2024.09.028](https://doi.org/10.1016/j.cub.2024.09.028)
+| |Mather, N., S. M. Traves and S. Y. W. Ho. 2020. A practical introduction to sequentially Markovian coalescent methods for estimating demographic history from genomic data. Ecology and Evolution 10:579-589. [https://doi.org/10.1002/ece3.5888](https://doi.org/10.1002/ece3.5888)|
 | | |
 |17 April|Terhorst, J., J. A. Kamm and Y. S. Song. 2017. Robust and scalable inference of population history from hundreds of unphased whole genomes. Nature Genetics 49:303-309. [https://doi.org/10.1038/ng.3748](https://doi.org/10.1038/ng.3748) |
-|17 April| |
 | | |
 |24 April| |
 | | |
