@@ -15,9 +15,12 @@
 * [EEMS](https://github.com/dipetkov/eems) - ***E***stimated ***E***ffective ***M***igration ***S***urfaces
 * [FEEMS](https://github.com/VivaswatS/feems) - ***F***ast ***EEMS***
 * [EIGENSOFT](https://github.com/DReichLab/EIG) - EIGENSOFT package for genomic data (including smartpca, Linux only)
+* [MSMC2](https://github.com/stschiff/msmc2) - ***M***ultiple ***S***equentially ***M***arkovian ***C***doalescent
 * [PCAviz](https://github.com/NovembreLab/PCAviz) - Visualization tools for the results of a PCA on genomic data
 * [PopCluster](https://www.zsl.org/about-zsl/resources/software/popcluster) - available for Windows, Linux, and OS X (an alternative to Admixture and Structure)
+* [PSMC](https://github.com/lh3/psmc) - ***P***airwise ***S***equentially ***M***arkovian ***C***oalescent
 * [smartsnp](https://christianhuber.github.io/smartsnp/index.html) - PCA analysis of genomic data in R
+* [SMC++](https://github.com/popgenmethods/smcpp) - Estimate population size history from genomic data
 * [Structure](https://web.stanford.edu/group/pritchardlab/structure.html) - available for Linux, OS X, and Windoze
 * [tskit](https://tskit.dev/) - software for tree sequences
 
