@@ -61,8 +61,9 @@
 | | |
 |17 April|Terhorst, J., J. A. Kamm and Y. S. Song. 2017. Robust and scalable inference of population history from hundreds of unphased whole genomes. Nature Genetics 49:303-309. [https://doi.org/10.1038/ng.3748](https://doi.org/10.1038/ng.3748) |
 | | |
-|24 April| |
+|24 April|Kelleher, J., K. R. Thornton, J. Ashander and P. L. Ralph. 2018. Efficient pedigree recording for fast population genetics simulation. PLOS Computational Biology 14(11): e1006581. [https://doi.org/10.1371/journal.pcbi.1006581](https://doi.org/10.1371/journal.pcbi.1006581)|
 | | |
-|1 May|Speidel, L., M. Silva, T. Booth, B. Raffield, K. Anastasiadou, C. Barrington, A. Götherström, P. Heather and P. Skoglund. 2025. High-resolution genomic history of early medieval Europe. Nature 637:118-126. [https://doi.org/10.1038/s41586-024-08275-2](https://doi.org/10.1038/s41586-024-08275-2)
+|1 May|Grundler, M. C., J. Terhorst and G. S. Bradburd. 2025. A geographic history of human genetic ancestry. Science 387(6741): 1391-1397. [https://www.science.org/doi/abs/10.1126/science.adp4642](https://www.science.org/doi/abs/10.1126/science.adp4642)
+| |Speidel, L., M. Silva, T. Booth, B. Raffield, K. Anastasiadou, C. Barrington, A. Götherström, P. Heather and P. Skoglund. 2025. High-resolution genomic history of early medieval Europe. Nature 637:118-126. [https://doi.org/10.1038/s41586-024-08275-2](https://doi.org/10.1038/s41586-024-08275-2)
 
 
