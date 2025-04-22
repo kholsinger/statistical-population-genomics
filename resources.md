@@ -21,6 +21,7 @@
 * [PSMC](https://github.com/lh3/psmc) - ***P***airwise ***S***equentially ***M***arkovian ***C***oalescent
 * [smartsnp](https://christianhuber.github.io/smartsnp/index.html) - PCA analysis of genomic data in R
 * [SMC++](https://github.com/popgenmethods/smcpp) - Estimate population size history from genomic data
+* [snpR](https://github.com/hemstrow/snpR) - Analysis of SNP data (*F<sub>ST</sub>*, gametic disequilbrium, sliding windows, Tajima's *D*)
 * [Structure](https://web.stanford.edu/group/pritchardlab/structure.html) - available for Linux, OS X, and Windoze
 * [tskit](https://tskit.dev/) - software for tree sequences
 
